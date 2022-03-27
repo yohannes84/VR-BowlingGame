@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/04_Pinstars/Pinstars.unity
+  isLoaded: 1
+  isActive: 1
